@@ -81,4 +81,6 @@ const Playground: FC<IProps> = ({
   );
 };
 
+export { Editor, Result }
+
 export default Playground;
